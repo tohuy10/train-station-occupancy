@@ -1,0 +1,79 @@
+service_group,direction,from_code,from_name,to_code,to_name,scheduled_sec,factor,estimated_sec,station_travel_sec
+Mon-Thu,forward,BTN,Ben Thanh,OPH,Opera House,90.0,1.1016,99.15,287.2
+Mon-Thu,forward,OPH,Opera House,BSN,Ba Son,80.0,2.2987,183.9,287.2
+Mon-Thu,forward,BSN,Ba Son,VTP,Van Thanh Park,130.0,1.2895,167.64,287.2
+Mon-Thu,forward,VTP,Van Thanh Park,TCN,Tan Cang,80.0,1.342,107.36,287.2
+Mon-Thu,forward,TCN,Tan Cang,TDN,Thao Dien,90.0,1.0483,94.35,287.2
+Mon-Thu,forward,TDN,Thao Dien,ANP,An Phu,80.0,1.3666,109.32,287.2
+Mon-Thu,forward,ANP,An Phu,RCC,Rach Chiec,110.0,1.1031,121.34,287.2
+Mon-Thu,forward,RCC,Rach Chiec,PCL,Phuoc Long,100.0,0.9,90.0,287.2
+Mon-Thu,forward,PCL,Phuoc Long,BTI,Binh Thai,100.0,1.4727,147.27,287.2
+Mon-Thu,forward,BTI,Binh Thai,TDC,Thu Duc,110.0,1.339,147.3,287.2
+Mon-Thu,forward,TDC,Thu Duc,HTP,Hi-Tech Park,140.0,0.9465,132.51,287.2
+Mon-Thu,forward,HTP,Hi-Tech Park,NUS,National University,110.0,1.5097,166.07,287.2
+Mon-Thu,forward,NUS,National University,STT,Suoi Tien Terminal,160.0,1.6932,270.91,287.2
+Mon-Thu,reverse,STT,Suoi Tien Terminal,NUS,National University,160.0,1.6219,259.51,242.15
+Mon-Thu,reverse,NUS,National University,HTP,Hi-Tech Park,110.0,1.4208,156.29,242.15
+Mon-Thu,reverse,HTP,Hi-Tech Park,TDC,Thu Duc,140.0,1.142,159.87,242.15
+Mon-Thu,reverse,TDC,Thu Duc,BTI,Binh Thai,110.0,1.3614,149.76,242.15
+Mon-Thu,reverse,BTI,Binh Thai,PCL,Phuoc Long,100.0,1.3786,137.86,242.15
+Mon-Thu,reverse,PCL,Phuoc Long,RCC,Rach Chiec,100.0,0.9,90.0,242.15
+Mon-Thu,reverse,RCC,Rach Chiec,ANP,An Phu,110.0,1.366,150.26,242.15
+Mon-Thu,reverse,ANP,An Phu,TDN,Thao Dien,80.0,1.2058,96.47,242.15
+Mon-Thu,reverse,TDN,Thao Dien,TCN,Tan Cang,90.0,1.343,120.87,242.15
+Mon-Thu,reverse,TCN,Tan Cang,VTP,Van Thanh Park,80.0,1.3621,108.97,242.15
+Mon-Thu,reverse,VTP,Van Thanh Park,BSN,Ba Son,130.0,1.2803,166.44,242.15
+Mon-Thu,reverse,BSN,Ba Son,OPH,Opera House,80.0,1.6253,130.02,242.15
+Mon-Thu,reverse,OPH,Opera House,BTN,Ben Thanh,90.0,1.3981,125.83,242.15
+Fri,forward,BTN,Ben Thanh,OPH,Opera House,90.0,0.9837,88.53,279.06
+Fri,forward,OPH,Opera House,BSN,Ba Son,80.0,2.2514,180.11,279.06
+Fri,forward,BSN,Ba Son,VTP,Van Thanh Park,130.0,1.3583,176.58,279.06
+Fri,forward,VTP,Van Thanh Park,TCN,Tan Cang,80.0,1.3029,104.23,279.06
+Fri,forward,TCN,Tan Cang,TDN,Thao Dien,90.0,1.0358,93.22,279.06
+Fri,forward,TDN,Thao Dien,ANP,An Phu,80.0,1.3217,105.74,279.06
+Fri,forward,ANP,An Phu,RCC,Rach Chiec,110.0,1.1839,130.23,279.06
+Fri,forward,RCC,Rach Chiec,PCL,Phuoc Long,100.0,0.9,90.0,279.06
+Fri,forward,PCL,Phuoc Long,BTI,Binh Thai,100.0,1.5593,155.93,279.06
+Fri,forward,BTI,Binh Thai,TDC,Thu Duc,110.0,1.3708,150.79,279.06
+Fri,forward,TDC,Thu Duc,HTP,Hi-Tech Park,140.0,0.9576,134.07,279.06
+Fri,forward,HTP,Hi-Tech Park,NUS,National University,110.0,1.4501,159.52,279.06
+Fri,forward,NUS,National University,STT,Suoi Tien Terminal,160.0,1.6514,264.23,279.06
+Fri,reverse,STT,Suoi Tien Terminal,NUS,National University,160.0,1.538,246.09,242.34
+Fri,reverse,NUS,National University,HTP,Hi-Tech Park,110.0,1.3882,152.7,242.34
+Fri,reverse,HTP,Hi-Tech Park,TDC,Thu Duc,140.0,1.1378,159.29,242.34
+Fri,reverse,TDC,Thu Duc,BTI,Binh Thai,110.0,1.4146,155.61,242.34
+Fri,reverse,BTI,Binh Thai,PCL,Phuoc Long,100.0,1.3109,131.09,242.34
+Fri,reverse,PCL,Phuoc Long,RCC,Rach Chiec,100.0,0.9,90.0,242.34
+Fri,reverse,RCC,Rach Chiec,ANP,An Phu,110.0,1.4384,158.22,242.34
+Fri,reverse,ANP,An Phu,TDN,Thao Dien,80.0,1.1637,93.1,242.34
+Fri,reverse,TDN,Thao Dien,TCN,Tan Cang,90.0,1.3227,119.05,242.34
+Fri,reverse,TCN,Tan Cang,VTP,Van Thanh Park,80.0,1.4311,114.49,242.34
+Fri,reverse,VTP,Van Thanh Park,BSN,Ba Son,130.0,1.2187,158.43,242.34
+Fri,reverse,BSN,Ba Son,OPH,Opera House,80.0,1.672,133.76,242.34
+Fri,reverse,OPH,Opera House,BTN,Ben Thanh,90.0,1.3619,122.57,242.34
+Sat-Sun,forward,BTN,Ben Thanh,OPH,Opera House,90.0,1.4516,130.64,360.28
+Sat-Sun,forward,OPH,Opera House,BSN,Ba Son,80.0,2.1647,173.18,360.28
+Sat-Sun,forward,BSN,Ba Son,VTP,Van Thanh Park,130.0,1.4655,190.51,360.28
+Sat-Sun,forward,VTP,Van Thanh Park,TCN,Tan Cang,80.0,1.5088,120.7,360.28
+Sat-Sun,forward,TCN,Tan Cang,TDN,Thao Dien,90.0,0.9863,88.77,360.28
+Sat-Sun,forward,TDN,Thao Dien,ANP,An Phu,80.0,1.3855,110.84,360.28
+Sat-Sun,forward,ANP,An Phu,RCC,Rach Chiec,110.0,1.0491,115.4,360.28
+Sat-Sun,forward,RCC,Rach Chiec,PCL,Phuoc Long,100.0,0.9,90.0,360.28
+Sat-Sun,forward,PCL,Phuoc Long,BTI,Binh Thai,100.0,1.5364,153.64,360.28
+Sat-Sun,forward,BTI,Binh Thai,TDC,Thu Duc,110.0,1.2916,142.08,360.28
+Sat-Sun,forward,TDC,Thu Duc,HTP,Hi-Tech Park,150.0,0.9,135.0,360.28
+Sat-Sun,forward,HTP,Hi-Tech Park,NUS,National University,110.0,1.7212,189.33,360.28
+Sat-Sun,forward,NUS,National University,STT,Suoi Tien Terminal,150.0,2.0972,314.58,360.28
+Sat-Sun,reverse,STT,Suoi Tien Terminal,NUS,National University,150.0,1.8643,279.65,302.94
+Sat-Sun,reverse,NUS,National University,HTP,Hi-Tech Park,110.0,1.647,181.17,302.94
+Sat-Sun,reverse,HTP,Hi-Tech Park,TDC,Thu Duc,150.0,0.9466,141.99,302.94
+Sat-Sun,reverse,TDC,Thu Duc,BTI,Binh Thai,110.0,1.3673,150.4,302.94
+Sat-Sun,reverse,BTI,Binh Thai,PCL,Phuoc Long,100.0,1.4778,147.78,302.94
+Sat-Sun,reverse,PCL,Phuoc Long,RCC,Rach Chiec,100.0,0.9,90.0,302.94
+Sat-Sun,reverse,RCC,Rach Chiec,ANP,An Phu,110.0,1.2753,140.28,302.94
+Sat-Sun,reverse,ANP,An Phu,TDN,Thao Dien,80.0,1.1747,93.97,302.94
+Sat-Sun,reverse,TDN,Thao Dien,TCN,Tan Cang,90.0,1.1814,106.33,302.94
+Sat-Sun,reverse,TCN,Tan Cang,VTP,Van Thanh Park,80.0,1.409,112.72,302.94
+Sat-Sun,reverse,VTP,Van Thanh Park,BSN,Ba Son,130.0,1.4961,194.49,302.94
+Sat-Sun,reverse,BSN,Ba Son,OPH,Opera House,80.0,1.6101,128.8,302.94
+Sat-Sun,reverse,OPH,Opera House,BTN,Ben Thanh,90.0,1.518,136.62,302.94

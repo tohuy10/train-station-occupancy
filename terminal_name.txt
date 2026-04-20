@@ -1,0 +1,14 @@
+BTN: Ben Thanh
+OPH: Opera House
+BSN: Ba Son
+VTP: Van Thanh Park
+TCN: Tan Cang
+TDN: Thao Dien
+ANP: An Phu
+RCC: Rach Chiec
+PCL: Phuoc Long
+BTI: Binh Thai
+TDC: Thu Duc
+HTP: Hi-Tech Park
+NUS: National University
+STT: Suoi Tien Terminal
