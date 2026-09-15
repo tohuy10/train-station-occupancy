@@ -1,0 +1,231 @@
+{
+  "total_rows_scanned": 4337267,
+  "valid_trips": 4292715,
+  "same_station_trips": 35320,
+  "valid_trip_pct": 98.97,
+  "same_station_pct": 0.81,
+  "total_days_analyzed": 92,
+  "dow_counts": [
+    13,
+    13,
+    13,
+    13,
+    14,
+    13,
+    13
+  ],
+  "duration_distribution": {
+    "0-15m": 548346,
+    "15-30m": 2270506,
+    "30-45m": 1364034,
+    "45-60m": 98763,
+    "60-90m": 35628,
+    "90m+": 19990
+  },
+  "top_stations_tap_in": [
+    {
+      "station": "BTN",
+      "name": "Ben Thanh",
+      "tap_in": 1020830
+    },
+    {
+      "station": "NUS",
+      "name": "National University",
+      "tap_in": 538857
+    },
+    {
+      "station": "OPH",
+      "name": "Opera House",
+      "tap_in": 402206
+    },
+    {
+      "station": "TDC",
+      "name": "Thu Duc",
+      "tap_in": 372408
+    },
+    {
+      "station": "ANP",
+      "name": "An Phu",
+      "tap_in": 326989
+    },
+    {
+      "station": "STT",
+      "name": "Suoi Tien Terminal",
+      "tap_in": 317269
+    },
+    {
+      "station": "BSN",
+      "name": "Ba Son",
+      "tap_in": 230993
+    },
+    {
+      "station": "TCN",
+      "name": "Tan Cang",
+      "tap_in": 224492
+    },
+    {
+      "station": "HTP",
+      "name": "Hi-Tech Park",
+      "tap_in": 213732
+    },
+    {
+      "station": "BTI",
+      "name": "Binh Thai",
+      "tap_in": 212257
+    },
+    {
+      "station": "TDN",
+      "name": "Thao Dien",
+      "tap_in": 193699
+    },
+    {
+      "station": "VTP",
+      "name": "Van Thanh Park",
+      "tap_in": 116649
+    },
+    {
+      "station": "PCL",
+      "name": "Phuoc Long",
+      "tap_in": 77668
+    },
+    {
+      "station": "RCC",
+      "name": "Rach Chiec",
+      "tap_in": 44666
+    }
+  ],
+  "top_stations_tap_out": [
+    {
+      "station": "BTN",
+      "name": "Ben Thanh",
+      "tap_out": 1038287
+    },
+    {
+      "station": "NUS",
+      "name": "National University",
+      "tap_out": 437881
+    },
+    {
+      "station": "OPH",
+      "name": "Opera House",
+      "tap_out": 407648
+    },
+    {
+      "station": "STT",
+      "name": "Suoi Tien Terminal",
+      "tap_out": 368494
+    },
+    {
+      "station": "TDC",
+      "name": "Thu Duc",
+      "tap_out": 368419
+    },
+    {
+      "station": "ANP",
+      "name": "An Phu",
+      "tap_out": 321967
+    },
+    {
+      "station": "TCN",
+      "name": "Tan Cang",
+      "tap_out": 239001
+    },
+    {
+      "station": "BSN",
+      "name": "Ba Son",
+      "tap_out": 236253
+    },
+    {
+      "station": "BTI",
+      "name": "Binh Thai",
+      "tap_out": 221084
+    },
+    {
+      "station": "HTP",
+      "name": "Hi-Tech Park",
+      "tap_out": 213470
+    },
+    {
+      "station": "TDN",
+      "name": "Thao Dien",
+      "tap_out": 196967
+    },
+    {
+      "station": "VTP",
+      "name": "Van Thanh Park",
+      "tap_out": 116814
+    },
+    {
+      "station": "PCL",
+      "name": "Phuoc Long",
+      "tap_out": 79767
+    },
+    {
+      "station": "RCC",
+      "name": "Rach Chiec",
+      "tap_out": 46663
+    }
+  ],
+  "peak_hours_summary": {
+    "morning_peak_avg_load": 1841.5334000025948,
+    "morning_peak_max_load": 2402.0640899352893,
+    "evening_peak_avg_load": 2130.631669425977,
+    "evening_peak_max_load": 2514.5177152136753,
+    "offpeak_avg_load": 948.6685436683456,
+    "night_avg_load": 314.9035667998575
+  },
+  "top_congested_segments_fwd": [
+    {
+      "segment": "TDC \u2192 HTP",
+      "morning_peak_avg": 63.24512318807427,
+      "evening_peak_avg": 82.11952706937186
+    },
+    {
+      "segment": "ANP \u2192 RCC",
+      "morning_peak_avg": 57.388692640174064,
+      "evening_peak_avg": 135.74579234499927
+    },
+    {
+      "segment": "BTI \u2192 TDC",
+      "morning_peak_avg": 56.178298841809244,
+      "evening_peak_avg": 94.08705598387581
+    },
+    {
+      "segment": "PCL \u2192 BTI",
+      "morning_peak_avg": 52.76153273380028,
+      "evening_peak_avg": 109.12859091480728
+    },
+    {
+      "segment": "RCC \u2192 PCL",
+      "morning_peak_avg": 52.33597809154536,
+      "evening_peak_avg": 119.68656957586195
+    }
+  ],
+  "top_congested_segments_rev": [
+    {
+      "segment": "VTP \u2192 BSN",
+      "morning_peak_avg": 149.7010180263974,
+      "evening_peak_avg": 92.37016705654082
+    },
+    {
+      "segment": "RCC \u2192 ANP",
+      "morning_peak_avg": 140.76914466917225,
+      "evening_peak_avg": 83.4960826567813
+    },
+    {
+      "segment": "PCL \u2192 RCC",
+      "morning_peak_avg": 128.09009325786377,
+      "evening_peak_avg": 73.64978196261504
+    },
+    {
+      "segment": "BTI \u2192 PCL",
+      "morning_peak_avg": 119.03367535010909,
+      "evening_peak_avg": 71.3026464234149
+    },
+    {
+      "segment": "TDN \u2192 TCN",
+      "morning_peak_avg": 113.85624201353365,
+      "evening_peak_avg": 73.51874762372383
+    }
+  ]
+}
