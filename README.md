@@ -192,10 +192,10 @@ streamlit run data_explore.py
    ```
 
 3. **Data Placement & Sample Dataset**:
-   > [!NOTE]
-   > **Data Privacy & Repository Notice**: Full multi-month trip CSV files (~370 MB) are excluded from this public repository for privacy and data size reasons. 
-   > 
-   > A 100-row sample dataset is included directly in the repository as [`sample_trips.csv`](file:///c:/Users/nguye/Desktop/train-station-occupancy/sample_trips.csv) to demonstrate the required schema (`id`, `start__station`, `end__station`, `start__time`, `end__time`).
+ > [!NOTE]
+ > **Data Privacy & Repository Notice**: Full multi-month trip CSV files (~370 MB) are excluded from this public repository for privacy and data size reasons. 
+ > 
+ > A 100-row sample dataset is included directly in the repository as [`sample_trips.csv`](file:///c:/Users/nguye/Desktop/train-station-occupancy/sample_trips.csv) to demonstrate the required schema (`id`, `start__station`, `end__station`, `start__time`, `end__time`).
 
    To run full analysis across multi-month records, place trip CSV files inside `inputs/inputs/`.
 
